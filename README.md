@@ -15,6 +15,6 @@ I focus mainly on C++ development. Recent projects include:
 - **Languages:** C++, Python, Racket
 - **Tools:** VS Code, Git, GitHub, WSL
 
-### 📫 How can I reach him?
+### 📫 How can I reach Paarth?
 
 You can contact me via [LinkedIn](https://www.linkedin.com/in/paarth-pasari/) or my University Email (mailto:ppasari@uwaterloo.ca)
