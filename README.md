@@ -12,9 +12,9 @@ I focus mainly on C++ development. Recent projects include:
 
 ### 🪛 What Languages and Tools does he use?
 
-**Languages:** C++, Python, Racket
-**Tools:** VS Code, Git, GitHub, WSL
+- **Languages:** C++, Python, Racket
+- **Tools:** VS Code, Git, GitHub, WSL
 
 ### 📫 How can I reach him?
 
-You can contact me via [LinkedIn](https://www.linkedin.com/in/paarth-pasari/) or my [University Email](mailto:ppasari@uwaterloo.ca)
+You can contact me via [LinkedIn](https://www.linkedin.com/in/paarth-pasari/) or my University Email (mailto:ppasari@uwaterloo.ca)
