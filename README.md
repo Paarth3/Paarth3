@@ -7,6 +7,7 @@ I am a first-year Computer Science student at the University of Waterloo. I am c
 ### 🔭 What is Paarth currently working on?
 
 I focus mainly on C++ development. Recent projects include:
+- A multi-user group chat application system built on the Berkeley Socket API.
 - A cross-platform, multi-threaded networking system built on the Berkeley Socket API.
 - A console-based inventory management system featuring dynamic memory and Role-Based Access Control (RBAC).
 
