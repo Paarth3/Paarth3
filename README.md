@@ -15,7 +15,7 @@ I focus mainly on C++ development. Recent projects include:
 ### 🪛 What Languages and Tools does he use?
 
 - **Languages:** C++, Python, Racket
-- **Tools:** VS Code, Git, GitHub, WSL
+- **Tools/Domains:** ROS2, OpenCV (Computer Vision), Berkeley Sockets, Git (Version control), GitHub, Linux and Windows environment
 
 ### 📫 How can I reach Paarth?
 
