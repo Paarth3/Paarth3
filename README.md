@@ -21,4 +21,4 @@ I focus mainly on C++/Python development. Recent projects include:
 
 ### 📫 How can I reach Paarth?
 
-I encourage you to visit my [Personal Website](https://paarthpasari.vercel.app/). You can contact me via [LinkedIn](https://www.linkedin.com/in/paarth-pasari/) or my University Email (mailto:ppasari@uwaterloo.ca)
+I encourage you to visit my [Personal Website](https://paarthpasari.vercel.app/). You can contact me via [LinkedIn](https://www.linkedin.com/in/paarth-pasari/) or my [University Email](mailto:ppasari@uwaterloo.ca)
