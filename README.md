@@ -7,7 +7,7 @@ I am a first-year Computer Science student at the University of Waterloo. I am c
 ### 🔭 What is Paarth currently working on?
 
 I focus mainly on C++/Python development. Recent projects include:
-- An event-driven pipeline using AWS that uses 'Rekognition' to automatically classify images (by objects it contains) and index metadata into DynamoDB NoSQL.
+- A cloud-based personalised marketing email generator that uses services like AWS Bedrock and AWS Lambda to automatically create a marketing email for each potential customer based on their interests/hobbies.  
 - Drawbie: A personal digital closet and outfit visualizer mobile app. Users can digitise their wardrobe items by uploading images, virtually try on different outfit combinations and save them for future reference.
 - A Publisher-Subscriber model built on the ROS2 framework that mimics a Reactor safety control system
 - A multi-user group chat application system built on the Berkeley Socket API.
