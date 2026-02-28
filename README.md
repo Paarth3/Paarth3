@@ -7,6 +7,7 @@ I am a first-year Computer Science student at the University of Waterloo. Incomi
 ### 🔭 What is Paarth currently working on?
 
 Recent projects include:
+- An automated Bash utility that traverses a multi-file codebase to generate a highly structured, detailed file-by-file summary in JSON format.
 - A cloud-based personalised marketing email generator that uses services like AWS Bedrock and AWS Lambda to automatically create a marketing email for each potential customer based on their interests/hobbies.  
 - Drawbie: A personal digital closet and outfit visualizer mobile app. Users can digitise their wardrobe items by uploading images, virtually try on different outfit combinations and save them for future reference.
 - A Publisher-Subscriber model built on the ROS2 framework that mimics a Reactor safety control system
